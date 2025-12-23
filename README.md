@@ -5,7 +5,7 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-PixelPush is a **real-time multiplayer gaming backend** designed to handle high-velocity data. It leverages **Redis** as a primary data structure store to solve complex distributed system problems like real-time leaderboards, ephemeral chat, and API rate limiting.
+Dots Pusher is a **real-time multiplayer gaming backend** designed to handle high-velocity data. It leverages **Redis** as a primary data structure store to solve complex distributed system problems like real-time leaderboards, ephemeral chat, and API rate limiting.
 
 ##  Why Redis? (Architecture Decisions)
 
