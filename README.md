@@ -31,12 +31,12 @@ This project moves beyond simple caching to utilize Redis as a core infrastructu
 
 ##  Quick Start (Docker)
 
-The easiest way to run PixelPush is with Docker Compose. This spins up both the Node API and a Redis instance instantly.
+The easiest way to run Dots Pusher is with Docker Compose. This spins up both the Node API and a Redis instance instantly.
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/yourusername/pixelpush.git](https://github.com/yourusername/pixelpush.git)
-cd pixelpush
+git clone [https://github.com/BhashkarFulara369/Dots_Pusher.git](https://github.com/BhashkarFulara369/Dots_Pusher.git)
+cd Dots_Pusher
 
 # 2. Run with Docker Compose
 docker-compose up --build
