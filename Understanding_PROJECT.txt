@@ -1,0 +1,6 @@
+---- Setting uP Project ----
+npm init -y
+npm install express ioredis socket.io cors dotenv
+mkdir src
+mkdir src/config src/services src/controllers src/routes
+

@@ -1,0 +1,26 @@
+{
+  "name": "dots_pusher",
+  "version": "1.0.0",
+  "description": "![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)\r ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)\r ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)\r ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhashkarFulara369/Dots_Pusher.git"
+  },
+  "keywords": [],
+  "author": "Bhashkar Fulara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhashkarFulara369/Dots_Pusher/issues"
+  },
+  "homepage": "https://github.com/BhashkarFulara369/Dots_Pusher#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}
